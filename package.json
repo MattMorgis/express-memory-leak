@@ -1,0 +1,14 @@
+{
+  "name": "express-memory-leak",
+  "version": "0.1.0",
+  "description": "Demos a possible memory leak in Express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Morgis",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
